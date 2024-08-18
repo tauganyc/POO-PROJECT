@@ -3,6 +3,7 @@
 ## Descrição do Projeto
 
 Este projeto implementa um sistema de biblioteca utilizando Java, com foco na aplicação dos conceitos fundamentais da Programação Orientada a Objetos (POO). A aplicação permite o gerenciamento de livros, usuários (alunos e professores) e empréstimos de livros, garantindo a persistência dos dados por meio da manipulação de arquivos.
+A referência para montar ele foi tirada de um teste de estágio da Dell.
 
 ## Estrutura do Projeto
 
