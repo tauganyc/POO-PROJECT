@@ -50,4 +50,4 @@ O tratamento de exceções foi implementado para lidar com possíveis erros na m
 1. Clone o repositório ou baixe os arquivos do projeto.
 2. Compile as classes Java com o comando:
    ```bash
-   javac Main.java
+   javac main/Main.java
